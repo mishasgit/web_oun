@@ -1,0 +1,82 @@
+{
+  "hero": {
+    "title": "Your Ounest Self",
+    "logo": "/ounest_logo_white_thin.svg",
+    "slogan_color": "text-black",
+    "youtube_id": "KQzMfMLsm18"
+  },
+  "mission": {
+    "title": "Our Mission",
+    "paragraphs": [
+      "In a world that constantly pulls us in every direction, finding focus and peace is a challenge. Our mission is to create a personal sanctuary for each individual, a space where they can mentally unwind, regain focus, and rejuvenate from the overwhelming battle with information that surrounds them. Modern life demands so much, setting endless goals and expectations, and the unending flow of information leaves people feeling scattered, stressed, and often depressed. Many struggle to keep up, losing sight of their true desires amid the noise.",
+      "We aim to provide the tools and knowledge that empower people to pause, reflect, and reconnect with themselves. Through meditation, individuals can declutter their minds, sharpen their focus, and invite fresh, authentic ideas that resonate with who they are—not dictated by external pressures. By helping people establish a space for calm and introspection, we strive to improve their quality of life, restoring restful sleep, inner clarity, and the ability to set meaningful goals. In this fast-paced world, our purpose is to bring people back to themselves, enabling them to live focused, balanced, and fulfilled lives."
+    ]
+  },
+  "meditation": {
+    "title": "Meditation techniques:",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    "youtube_ids": ["RVtDB_FE-Rs", "hjh08lEpTzw"]
+  },
+  "products": {
+    "title": "Products:",
+    "items": [
+      {
+        "id": "1",
+        "title": "Meditation mask",
+        "description": "Comfortable meditation mask that helps you achieve deeper relaxation...",
+        "images": [
+          "/images/sleep_mask.svg",
+          "images/sleep_mask.svg",
+          "/images/sleep_mask.svg"
+        ],
+        "amazonLink": "https://a.co/d/65rqZNM"
+      },
+      {
+        "id": "2",
+        "title": "Compact chair",
+        "description": "Ergonomic meditation chair for perfect posture ddfajdfksaljdflkjsa asdkjfklsdjfkljsa sdakfl asdkfjml aslkdfjl ldksajflsdkfjsldfk kadslfkdsjf",
+        "images": [
+          "/images/sleep_mask.svg",
+          "/images/sleep_mask.svg",
+          "/images/sleep_mask.svg"
+        ],
+        "amazonLink": "https://amazon.com/product2"
+      },
+      {
+        "id": "3",
+        "title": "Neck pillow",
+        "description": "Supportive neck pillow for comfortable meditation...",
+        "images": [
+          "/images/robot_img.svg",
+          "/images/robot_img.svg",
+          "/images/robot_img.svg"
+        ],
+        "amazonLink": "https://amazon.com/product3"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact us:",
+    "email": "example@email.com"
+  },
+  "navigation": {
+    "links": [
+      {
+        "id": "mission",
+        "text": "Mission"
+      },
+      {
+        "id": "products",
+        "text": "Products"
+      },
+      {
+        "id": "meditation",
+        "text": "Meditation"
+      },
+      {
+        "id": "contact",
+        "text": "Contact us"
+      }
+    ]
+  }
+} 
